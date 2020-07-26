@@ -6,7 +6,7 @@ Repositório com o intuito de apresentar um protótipo do aplicativo multi-bank,
 <img src='telas/Splash Screen.png' width="200" height="400" />
 <br/>
 
-Link para baixar e testar o APK: https://drive.google.com/file/d/1a6gjVswhdPzDmMy94sbmHZ6Xyh5AvykM/view?usp=sharing
+Link para visualizar o app web: http://andrevinicius123.scienceontheweb.net/hackathontecban/
 
 Esta é a Home do aplicativo.
 <br/>
